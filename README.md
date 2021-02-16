@@ -1,12 +1,12 @@
 # Chat app
 
-# Use this app
+## Use this app
 
 You can use this app through the next link:
 
 https://chatapp-nodejs-sockets.herokuapp.com/
 
-# Using this repository
+## Using this repository
 
 Before use this repository, you need to install locally:
 
