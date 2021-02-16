@@ -1,4 +1,4 @@
-# Chat app
+# Chat app with socket.io
 
 ## Use this app
 
